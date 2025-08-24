@@ -1,4 +1,4 @@
-package albatroz.project.kafka_poc.kafka;
+package albatroz.project.kafka_poc.kafka.producer;
 
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
